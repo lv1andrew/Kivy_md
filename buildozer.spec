@@ -1,4 +1,5 @@
 [app]
+
 # (str) Title of your application
 title = Bluetooth_Arduino
 # (str) Package name
@@ -30,7 +31,7 @@ version.filename = %(source.dir)s/main.py
 # version = 0.1
 
 # (list) Application requirements
-requirements = kivy2.0.0, Cython, python3
+requirements = kivy2.0.0, pyjnius, python3
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
