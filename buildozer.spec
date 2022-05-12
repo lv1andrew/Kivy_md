@@ -1,7 +1,6 @@
 [app]
 # (str) Title of your application
 title = Bluetooth_Arduino
-
 # (str) Package name
 package.name = bluetooth_arduino
 

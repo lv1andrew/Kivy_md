@@ -1,4 +1,6 @@
 # Same as before, with a kivy-based UI
+
+
 '''
 Bluetooth/Pyjnius example
 =========================
